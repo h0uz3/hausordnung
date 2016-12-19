@@ -8,13 +8,13 @@ Den Anweisungen des aktuellen Key-Holders sowie des Vorstands ist Folge zu leist
 
 Jugendschutz
 ------------
-Es gilt das Jugendschutzgesetz. Der Konsum von alkoholischen Getränken und der Aufenthalt von Jugendlichen in den Räumen des Vereins shack e.V. wird durch dieses Gesetz geregelt.   
-Darüber hinaus erfordert der Aufenthalt von unter 18jährigen Besuchern die Begleitung eines Erziehungsberechtigten bzw. einer durch die Erziehungsberechtigten ermächtigten Aufsichtsperson.  
-Bei minderjährigen Besuchern ist ein beaufsichtigender Keymember[^2] notwendig. 
+Es gilt das Jugendschutzgesetz. Der Konsum von alkoholischen Getränken und der Aufenthalt von Jugendlichen in den Räumen des Vereins shack e.V. wird durch dieses Gesetz geregelt.
+Darüber hinaus erfordert der Aufenthalt von unter 18jährigen Besuchern die Begleitung eines Erziehungsberechtigten bzw. einer durch die Erziehungsberechtigten ermächtigten Aufsichtsperson.
+Bei minderjährigen Besuchern ist ein beaufsichtigender Keymember[^2] notwendig.
 
 Alkoholkonsum
 -------------
-Der Konsum von branntweinhaltigen Getränken im Haus ist nur zu beim Plenum angemeldeten Veranstaltungen erlaubt. 
+Der Konsum von alkoholischen Getränken sowie die Anwesenheit von Personen unter Alkholeinfluss im Space ist nur zu beim Plenum angemeldeten Veranstaltungen erlaubt.
 Unabhängig davon gilt §9 JuSchG.
 
 Rauchen
@@ -24,11 +24,11 @@ Das Rauchen und der Konsum von Tabakwaren (dazu gehören auch Shisha, E-Zigarett
 Gefährliche Stoffe
 ------------------
 Der Besitz, Umgang und Herstellung mit bzw. von Substanzen, die nach dem Sprengstoffgesetz beschränkt sind, ist verboten.
-Das Lagern von leicht entflammbaren oder explosionsgefaehrlichen Stoffen in den Raeumen des shack e.V. ist nur in taugliche Behältern erlaubt (z.B. Munitionskiste, LiPo-Bags).
+Das Lagern von leicht entflammbaren oder explosionsgefaehrlichen Stoffen in den Raeumen des shack e.V. ist nur in tauglichen Behältern erlaubt (z.B. Munitionskiste, LiPo-Bags).
 
 Gefährliche Strahlung
 ---------------------
-Die Erzeugung oder Anwendung gefährlicher Strahlung, beispielsweise radioaktiver, LASER-, Roentgen-, UV- und ähnlicher Strahlung ist untersagt.
+Die Erzeugung oder Anwendung gefährlicher Strahlung, beispielsweise radioaktiver, LASER-, Roentgen-, UV- und ähnlicher Strahlung außerhalb betriebssichererer, dafür vorgesehener Geräte ist untersagt.
 
 Elektrische Einrichtungen
 -------------------------
@@ -47,7 +47,7 @@ Sicherheitseinrichtungen
 ------------------------
 Das Abbauen und/oder Modifizieren von Sicherheitseinrichtungen(z.B. Rauchmeldern, Feuerlöschern) ist untersagt. Scheint eine Sicherheitseinrichtung nicht funktionsfähig sein so ist dies umgehend dem Vorstand[^3] mitzuteilen.
 
-[^1]: Keyholder: Mitglieder welches als letztes den Space aufgeschlossen hat. Status bleibt bestehen bis ein anderes Mitglied zum Keyholder wird oder der Space geschlossen wird.
+[^1]: Keyholder: Mitglied, welches als letztes den Space aufgeschlossen hat. Status bleibt bestehen bis ein anderes Mitglied zum Keyholder wird oder der Space geschlossen wird.
 
 [^2]: Keymember: Mitglied welches durch andere Keymember berechtigt wurde jederzeit alleinigen Zugang zum Space zu bekommen. Üblicherweise gekennzeichnet durch Hinterlegen eines entsprechenden Schlüssels im Portalsystem.
 
